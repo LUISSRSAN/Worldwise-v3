@@ -8,6 +8,7 @@ export default function PageNav() {
     <nav className={styles.nav}>
         <ul>
 <Logo/>
+
             <li>
 <NavLink to="/homepage"> Home</NavLink>
             </li>
